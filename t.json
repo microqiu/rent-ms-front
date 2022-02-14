@@ -1,0 +1,3158 @@
+{
+    "request_id": "10100712039616",
+    "status": 0,
+    "msg": "OK",
+    "data": {
+        "li": {
+            "name": "全郑州",
+            "type": "radio",
+            "options": [
+                {
+                    "name": "不限",
+                    "id": 0,
+                    "pinyin": "/",
+                    "baidu_code": "",
+                    "line_color": "FFFFFF",
+                    "children": []
+                },
+                {
+                    "name": "1号线",
+                    "id": 110460711,
+                    "pinyin": "li110460711/",
+                    "baidu_code": "408c81aa76e25a3fadb22a80",
+                    "line_color": "FFFFFF",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 3320031702848116,
+                            "name": "河南大学新区",
+                            "pinyin": "li110460711s3320031702848116/",
+                            "latitude": 34.826345,
+                            "longitude": 113.819412,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 0
+                        },
+                        {
+                            "id": 3320024453090036,
+                            "name": "文苑北路",
+                            "pinyin": "li110460711s3320024453090036/",
+                            "latitude": 34.814363,
+                            "longitude": 113.818827,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 1
+                        },
+                        {
+                            "id": 3320024453090127,
+                            "name": "龙子湖",
+                            "pinyin": "li110460711s3320024453090127/",
+                            "latitude": 34.798464,
+                            "longitude": 113.817104,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 2
+                        },
+                        {
+                            "id": 100021634,
+                            "name": "市体育中心",
+                            "pinyin": "li110460711s100021634/",
+                            "latitude": 34.778621,
+                            "longitude": 113.817037,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 3
+                        },
+                        {
+                            "id": 100021635,
+                            "name": "博学路",
+                            "pinyin": "li110460711s100021635/",
+                            "latitude": 34.765833,
+                            "longitude": 113.799026,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 4
+                        },
+                        {
+                            "id": 100021636,
+                            "name": "郑州东站",
+                            "pinyin": "li110460711s100021636/",
+                            "latitude": 34.765409,
+                            "longitude": 113.783792,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 5
+                        },
+                        {
+                            "id": 100021637,
+                            "name": "东风南路",
+                            "pinyin": "li110460711s100021637/",
+                            "latitude": 34.770819,
+                            "longitude": 113.773507,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 6
+                        },
+                        {
+                            "id": 100021638,
+                            "name": "农业南路",
+                            "pinyin": "li110460711s100021638/",
+                            "latitude": 34.771703,
+                            "longitude": 113.761709,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 7
+                        },
+                        {
+                            "id": 100021639,
+                            "name": "黄河南路",
+                            "pinyin": "li110460711s100021639/",
+                            "latitude": 34.769049,
+                            "longitude": 113.750911,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 8
+                        },
+                        {
+                            "id": 100021640,
+                            "name": "会展中心",
+                            "pinyin": "li110460711s100021640/",
+                            "latitude": 34.772976,
+                            "longitude": 113.732275,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 9
+                        },
+                        {
+                            "id": 100021641,
+                            "name": "民航路",
+                            "pinyin": "li110460711s100021641/",
+                            "latitude": 34.769662,
+                            "longitude": 113.722392,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 10
+                        },
+                        {
+                            "id": 100021642,
+                            "name": "燕庄",
+                            "pinyin": "li110460711s100021642/",
+                            "latitude": 34.768867,
+                            "longitude": 113.709997,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 11
+                        },
+                        {
+                            "id": 100021643,
+                            "name": "紫荆山",
+                            "pinyin": "li110460711s100021643/",
+                            "latitude": 34.767874,
+                            "longitude": 113.688813,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 12
+                        },
+                        {
+                            "id": 100021644,
+                            "name": "人民路",
+                            "pinyin": "li110460711s100021644/",
+                            "latitude": 34.763342,
+                            "longitude": 113.680257,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 13
+                        },
+                        {
+                            "id": 100021645,
+                            "name": "二七广场",
+                            "pinyin": "li110460711s100021645/",
+                            "latitude": 34.758577,
+                            "longitude": 113.672374,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 14
+                        },
+                        {
+                            "id": 100021646,
+                            "name": "郑州火车站",
+                            "pinyin": "li110460711s100021646/",
+                            "latitude": 34.752688,
+                            "longitude": 113.662345,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 15
+                        },
+                        {
+                            "id": 100021647,
+                            "name": "医学院",
+                            "pinyin": "li110460711s100021647/",
+                            "latitude": 34.753884,
+                            "longitude": 113.64882,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 16
+                        },
+                        {
+                            "id": 100021648,
+                            "name": "绿城广场",
+                            "pinyin": "li110460711s100021648/",
+                            "latitude": 34.75386,
+                            "longitude": 113.639838,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 17
+                        },
+                        {
+                            "id": 100021649,
+                            "name": "碧沙岗",
+                            "pinyin": "li110460711s100021649/",
+                            "latitude": 34.761274,
+                            "longitude": 113.630898,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 18
+                        },
+                        {
+                            "id": 3320024455186085,
+                            "name": "五一公园",
+                            "pinyin": "li110460711s3320024455186085/",
+                            "latitude": 34.761911,
+                            "longitude": 113.619871,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 19
+                        },
+                        {
+                            "id": 100021651,
+                            "name": "秦岭路",
+                            "pinyin": "li110460711s100021651/",
+                            "latitude": 34.762728,
+                            "longitude": 113.609931,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 20
+                        },
+                        {
+                            "id": 100021652,
+                            "name": "西三环",
+                            "pinyin": "li110460711s100021652/",
+                            "latitude": 34.765583,
+                            "longitude": 113.595016,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 21
+                        },
+                        {
+                            "id": 100021653,
+                            "name": "西流湖",
+                            "pinyin": "li110460711s100021653/",
+                            "latitude": 34.766967,
+                            "longitude": 113.576833,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 22
+                        },
+                        {
+                            "id": 3320024455186822,
+                            "name": "市民中心",
+                            "pinyin": "li110460711s3320024455186822/",
+                            "latitude": 34.76803,
+                            "longitude": 113.560039,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 23
+                        },
+                        {
+                            "id": 3320024455191391,
+                            "name": "铁炉",
+                            "pinyin": "li110460711s3320024455191391/",
+                            "latitude": 34.773672,
+                            "longitude": 113.54728,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 24
+                        },
+                        {
+                            "id": 3320024455187365,
+                            "name": "兰寨",
+                            "pinyin": "li110460711s3320024455187365/",
+                            "latitude": 34.789713,
+                            "longitude": 113.547477,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 25
+                        },
+                        {
+                            "id": 3320024455187653,
+                            "name": "梧桐街",
+                            "pinyin": "li110460711s3320024455187653/",
+                            "latitude": 34.800308,
+                            "longitude": 113.547487,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 26
+                        },
+                        {
+                            "id": 3320024456233521,
+                            "name": "郑州大学",
+                            "pinyin": "li110460711s3320024456233521/",
+                            "latitude": 34.813937,
+                            "longitude": 113.547844,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 27
+                        },
+                        {
+                            "id": 3320024456233740,
+                            "name": "郑大科技园",
+                            "pinyin": "li110460711s3320024456233740/",
+                            "latitude": 34.823226,
+                            "longitude": 113.548222,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 28
+                        },
+                        {
+                            "id": 3320024455191846,
+                            "name": "河南工业大学",
+                            "pinyin": "li110460711s3320024455191846/",
+                            "latitude": 34.833033,
+                            "longitude": 113.548672,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 29
+                        }
+                    ]
+                },
+                {
+                    "name": "14号线",
+                    "id": 33000001548624,
+                    "pinyin": "li33000001548624/",
+                    "baidu_code": "b2e0deab6235146097ec8415",
+                    "line_color": "FFFFFF",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 3320024455191391,
+                            "name": "铁炉",
+                            "pinyin": "li33000001548624s3320024455191391/",
+                            "latitude": 34.773672,
+                            "longitude": 113.54728,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 2
+                        },
+                        {
+                            "id": 33000001548710,
+                            "name": "市委党校",
+                            "pinyin": "li33000001548624s33000001548710/",
+                            "latitude": 34.755427,
+                            "longitude": 113.547535,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 4
+                        },
+                        {
+                            "id": 33000001548634,
+                            "name": "奥体中心",
+                            "pinyin": "li33000001548624s33000001548634/",
+                            "latitude": 34.744806,
+                            "longitude": 113.547525,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "3号线",
+                    "id": 33000008111421,
+                    "pinyin": "li33000008111421/",
+                    "baidu_code": "c8fe069e7d066735bbbd63bc",
+                    "line_color": "FFFFFF",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 3320055957706217,
+                            "name": "省体育中心",
+                            "pinyin": "li33000008111421s3320055957706217/",
+                            "latitude": 34.839040140332,
+                            "longitude": 113.63254783838,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 1
+                        },
+                        {
+                            "id": 33000008111426,
+                            "name": "王砦",
+                            "pinyin": "li33000008111421s33000008111426/",
+                            "latitude": 34.82597,
+                            "longitude": 113.632337,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 2
+                        },
+                        {
+                            "id": 33000008111424,
+                            "name": "兴隆铺",
+                            "pinyin": "li33000008111421s33000008111424/",
+                            "latitude": 34.813143,
+                            "longitude": 113.63441,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 3
+                        },
+                        {
+                            "id": 33000008111442,
+                            "name": "同乐",
+                            "pinyin": "li33000008111421s33000008111442/",
+                            "latitude": 34.801805,
+                            "longitude": 113.642013,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 4
+                        },
+                        {
+                            "id": 3320055957706213,
+                            "name": "南阳新村",
+                            "pinyin": "li33000008111421s3320055957706213/",
+                            "latitude": 34.792075046861,
+                            "longitude": 113.64841191369,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 5
+                        },
+                        {
+                            "id": 3320041526840334,
+                            "name": "海滩寺",
+                            "pinyin": "li33000008111421s3320041526840334/",
+                            "latitude": 34.780725,
+                            "longitude": 113.656182,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 6
+                        },
+                        {
+                            "id": 3320055957706227,
+                            "name": "大石桥",
+                            "pinyin": "li33000008111421s3320055957706227/",
+                            "latitude": 34.771239,
+                            "longitude": 113.662122,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 7
+                        },
+                        {
+                            "id": 3320055957706237,
+                            "name": "人民公园",
+                            "pinyin": "li33000008111421s3320055957706237/",
+                            "latitude": 34.764586,
+                            "longitude": 113.666589,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 8
+                        },
+                        {
+                            "id": 100021645,
+                            "name": "二七广场",
+                            "pinyin": "li33000008111421s100021645/",
+                            "latitude": 34.758577,
+                            "longitude": 113.672374,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 9
+                        },
+                        {
+                            "id": 3320055957706241,
+                            "name": "西大街",
+                            "pinyin": "li33000008111421s3320055957706241/",
+                            "latitude": 34.756223678219,
+                            "longitude": 113.6833020997,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 10
+                        },
+                        {
+                            "id": 3320024452042475,
+                            "name": "东大街",
+                            "pinyin": "li33000008111421s3320024452042475/",
+                            "latitude": 34.75415,
+                            "longitude": 113.689319,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 11
+                        },
+                        {
+                            "id": 33000008111437,
+                            "name": "郑州文庙",
+                            "pinyin": "li33000008111421s33000008111437/",
+                            "latitude": 34.75262,
+                            "longitude": 113.698104,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 12
+                        },
+                        {
+                            "id": 3320055957706249,
+                            "name": "博览中心",
+                            "pinyin": "li33000008111421s3320055957706249/",
+                            "latitude": 34.752541,
+                            "longitude": 113.710656,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 13
+                        },
+                        {
+                            "id": 33000008111429,
+                            "name": "凤凰台",
+                            "pinyin": "li33000008111421s33000008111429/",
+                            "latitude": 34.752674,
+                            "longitude": 113.720191,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 14
+                        },
+                        {
+                            "id": 3320055957706253,
+                            "name": "东十里铺",
+                            "pinyin": "li33000008111421s3320055957706253/",
+                            "latitude": 34.752813032413,
+                            "longitude": 113.73172974974,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 15
+                        },
+                        {
+                            "id": 3320055957706257,
+                            "name": "通泰路",
+                            "pinyin": "li33000008111421s3320055957706257/",
+                            "latitude": 34.753943,
+                            "longitude": 113.739797,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 16
+                        },
+                        {
+                            "id": 33000008111444,
+                            "name": "西周",
+                            "pinyin": "li33000008111421s33000008111444/",
+                            "latitude": 34.754165,
+                            "longitude": 113.753369,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 17
+                        },
+                        {
+                            "id": 33000008111428,
+                            "name": "东周",
+                            "pinyin": "li33000008111421s33000008111428/",
+                            "latitude": 34.752813,
+                            "longitude": 113.764691,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 18
+                        },
+                        {
+                            "id": 3320041545715329,
+                            "name": "省骨科医院",
+                            "pinyin": "li33000008111421s3320041545715329/",
+                            "latitude": 34.750764,
+                            "longitude": 113.779728,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 19
+                        },
+                        {
+                            "id": 33000008111431,
+                            "name": "圃田西",
+                            "pinyin": "li33000008111421s33000008111431/",
+                            "latitude": 34.74781,
+                            "longitude": 113.800307,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 20
+                        },
+                        {
+                            "id": 33000008111430,
+                            "name": "营岗",
+                            "pinyin": "li33000008111421s33000008111430/",
+                            "latitude": 34.726668,
+                            "longitude": 113.808831,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 21
+                        }
+                    ]
+                },
+                {
+                    "name": "4号线",
+                    "id": 33000008111422,
+                    "pinyin": "li33000008111422/",
+                    "baidu_code": "64c82b2d2c512dd131f71df1",
+                    "line_color": "FFFFFF",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 33000008111440,
+                            "name": "老鸦陈",
+                            "pinyin": "li33000008111422s33000008111440/",
+                            "latitude": 34.838925,
+                            "longitude": 113.623861,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 1
+                        },
+                        {
+                            "id": 3320055968199585,
+                            "name": "省体育中心",
+                            "pinyin": "li33000008111422s3320055968199585/",
+                            "latitude": 34.83861424932,
+                            "longitude": 113.63317216071,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 2
+                        },
+                        {
+                            "id": 33000008111427,
+                            "name": "北二十里铺",
+                            "pinyin": "li33000008111422s33000008111427/",
+                            "latitude": 34.837147,
+                            "longitude": 113.647363,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 3
+                        },
+                        {
+                            "id": 3320055968199588,
+                            "name": "丰庆路",
+                            "pinyin": "li33000008111422s3320055968199588/",
+                            "latitude": 34.835843,
+                            "longitude": 113.660944,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 4
+                        },
+                        {
+                            "id": 3320055968199590,
+                            "name": "张家村",
+                            "pinyin": "li33000008111422s3320055968199590/",
+                            "latitude": 34.830145,
+                            "longitude": 113.667581,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 5
+                        },
+                        {
+                            "id": 33000008111436,
+                            "name": "陈寨东",
+                            "pinyin": "li33000008111422s33000008111436/",
+                            "latitude": 34.825603,
+                            "longitude": 113.676804,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 6
+                        },
+                        {
+                            "id": 3320024452040733,
+                            "name": "沙门",
+                            "pinyin": "li33000008111422s3320024452040733/",
+                            "latitude": 34.825263,
+                            "longitude": 113.688956,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 7
+                        },
+                        {
+                            "id": 3320055968199592,
+                            "name": "杨君刘",
+                            "pinyin": "li33000008111422s3320055968199592/",
+                            "latitude": 34.82518,
+                            "longitude": 113.704858,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 8
+                        },
+                        {
+                            "id": 33000008111425,
+                            "name": "森林公园北",
+                            "pinyin": "li33000008111422s33000008111425/",
+                            "latitude": 34.831732,
+                            "longitude": 113.710434,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 9
+                        },
+                        {
+                            "id": 33000008111441,
+                            "name": "清华附中",
+                            "pinyin": "li33000008111422s33000008111441/",
+                            "latitude": 34.835269,
+                            "longitude": 113.720427,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 10
+                        },
+                        {
+                            "id": 33000008111432,
+                            "name": "龙湖中环北",
+                            "pinyin": "li33000008111422s33000008111432/",
+                            "latitude": 34.835363,
+                            "longitude": 113.733055,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 11
+                        },
+                        {
+                            "id": 3320055968199594,
+                            "name": "龙湖中环南",
+                            "pinyin": "li33000008111422s3320055968199594/",
+                            "latitude": 34.79693654632,
+                            "longitude": 113.74409941661,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 12
+                        },
+                        {
+                            "id": 33000008111439,
+                            "name": "龙湖北",
+                            "pinyin": "li33000008111422s33000008111439/",
+                            "latitude": 34.830543,
+                            "longitude": 113.740694,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 13
+                        },
+                        {
+                            "id": 33000008111434,
+                            "name": "龙湖南",
+                            "pinyin": "li33000008111422s33000008111434/",
+                            "latitude": 34.809094,
+                            "longitude": 113.744559,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 14
+                        },
+                        {
+                            "id": 33000008111438,
+                            "name": "龙湖中环南",
+                            "pinyin": "li33000008111422s33000008111438/",
+                            "latitude": 34.797121,
+                            "longitude": 113.744146,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 15
+                        },
+                        {
+                            "id": 3320055968199596,
+                            "name": "农业东路",
+                            "pinyin": "li33000008111422s3320055968199596/",
+                            "latitude": 34.789863,
+                            "longitude": 113.741044,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 16
+                        },
+                        {
+                            "id": 3320041536276914,
+                            "name": "中央商务区",
+                            "pinyin": "li33000008111422s3320041536276914/",
+                            "latitude": 34.783991,
+                            "longitude": 113.737005,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 17
+                        },
+                        {
+                            "id": 100021640,
+                            "name": "会展中心",
+                            "pinyin": "li33000008111422s100021640/",
+                            "latitude": 34.772976,
+                            "longitude": 113.732275,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 18
+                        },
+                        {
+                            "id": 3320055968199598,
+                            "name": "南鼎路",
+                            "pinyin": "li33000008111422s3320055968199598/",
+                            "latitude": 34.76083523843,
+                            "longitude": 113.73339161493,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 19
+                        },
+                        {
+                            "id": 3320055968199600,
+                            "name": "货站街",
+                            "pinyin": "li33000008111422s3320055968199600/",
+                            "latitude": 34.746935,
+                            "longitude": 113.732903,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 21
+                        },
+                        {
+                            "id": 3320041548858384,
+                            "name": "七里河",
+                            "pinyin": "li33000008111422s3320041548858384/",
+                            "latitude": 34.726612,
+                            "longitude": 113.728802,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 22
+                        },
+                        {
+                            "id": 33000008111443,
+                            "name": "果树所",
+                            "pinyin": "li33000008111422s33000008111443/",
+                            "latitude": 34.717828,
+                            "longitude": 113.728609,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 23
+                        },
+                        {
+                            "id": 33000008111435,
+                            "name": "金岱",
+                            "pinyin": "li33000008111422s33000008111435/",
+                            "latitude": 34.706724,
+                            "longitude": 113.733328,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 24
+                        },
+                        {
+                            "id": 33000008111423,
+                            "name": "姚庄",
+                            "pinyin": "li33000008111422s33000008111423/",
+                            "latitude": 34.696728,
+                            "longitude": 113.74047,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 25
+                        },
+                        {
+                            "id": 33000008111433,
+                            "name": "郎庄",
+                            "pinyin": "li33000008111422s33000008111433/",
+                            "latitude": 34.691141,
+                            "longitude": 113.745002,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 26
+                        }
+                    ]
+                },
+                {
+                    "name": "2号线",
+                    "id": 3320024450997451,
+                    "pinyin": "li3320024450997451/",
+                    "baidu_code": "6c22dc4912a7e738c91b95c2",
+                    "line_color": "FFFFFF",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 33000001548719,
+                            "name": "贾河",
+                            "pinyin": "li3320024450997451s33000001548719/",
+                            "latitude": 34.872856,
+                            "longitude": 113.59962,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 1
+                        },
+                        {
+                            "id": 33000001548743,
+                            "name": "惠济区政府",
+                            "pinyin": "li3320024450997451s33000001548743/",
+                            "latitude": 34.872044,
+                            "longitude": 113.619501,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 2
+                        },
+                        {
+                            "id": 33000001548661,
+                            "name": "毛庄",
+                            "pinyin": "li3320024450997451s33000001548661/",
+                            "latitude": 34.872907,
+                            "longitude": 113.632768,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 3
+                        },
+                        {
+                            "id": 33000001548700,
+                            "name": "黄河迎宾馆",
+                            "pinyin": "li3320024450997451s33000001548700/",
+                            "latitude": 34.873481,
+                            "longitude": 113.649789,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 4
+                        },
+                        {
+                            "id": 33000001548625,
+                            "name": "金洼",
+                            "pinyin": "li3320024450997451s33000001548625/",
+                            "latitude": 34.8731,
+                            "longitude": 113.669231,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 5
+                        },
+                        {
+                            "id": 33000001548659,
+                            "name": "金达路",
+                            "pinyin": "li3320024450997451s33000001548659/",
+                            "latitude": 34.868497,
+                            "longitude": 113.685877,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 6
+                        },
+                        {
+                            "id": 3320024452040175,
+                            "name": "刘庄",
+                            "pinyin": "li3320024450997451s3320024452040175/",
+                            "latitude": 34.849785,
+                            "longitude": 113.685606,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 7
+                        },
+                        {
+                            "id": 3320024452040583,
+                            "name": "柳林",
+                            "pinyin": "li3320024450997451s3320024452040583/",
+                            "latitude": 34.834324,
+                            "longitude": 113.68781,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 8
+                        },
+                        {
+                            "id": 3320024452040733,
+                            "name": "沙门",
+                            "pinyin": "li3320024450997451s3320024452040733/",
+                            "latitude": 34.825263,
+                            "longitude": 113.688956,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 9
+                        },
+                        {
+                            "id": 3320024452040967,
+                            "name": "北三环",
+                            "pinyin": "li3320024450997451s3320024452040967/",
+                            "latitude": 34.810929,
+                            "longitude": 113.688035,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 10
+                        },
+                        {
+                            "id": 3320024452041242,
+                            "name": "东风路",
+                            "pinyin": "li3320024450997451s3320024452041242/",
+                            "latitude": 34.801731,
+                            "longitude": 113.688186,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 11
+                        },
+                        {
+                            "id": 3320024452045285,
+                            "name": "关虎屯",
+                            "pinyin": "li3320024450997451s3320024452045285/",
+                            "latitude": 34.794779,
+                            "longitude": 113.688228,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 12
+                        },
+                        {
+                            "id": 3320024452041966,
+                            "name": "黄河路",
+                            "pinyin": "li3320024450997451s3320024452041966/",
+                            "latitude": 34.780214,
+                            "longitude": 113.688612,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 13
+                        },
+                        {
+                            "id": 100021643,
+                            "name": "紫荆山",
+                            "pinyin": "li3320024450997451s100021643/",
+                            "latitude": 34.767874,
+                            "longitude": 113.688813,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 14
+                        },
+                        {
+                            "id": 3320024452042475,
+                            "name": "东大街",
+                            "pinyin": "li3320024450997451s3320024452042475/",
+                            "latitude": 34.75415,
+                            "longitude": 113.689319,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 15
+                        },
+                        {
+                            "id": 3320024452046482,
+                            "name": "陇海东路",
+                            "pinyin": "li3320024450997451s3320024452046482/",
+                            "latitude": 34.744106,
+                            "longitude": 113.688601,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 16
+                        },
+                        {
+                            "id": 3320024453087512,
+                            "name": "二里岗",
+                            "pinyin": "li3320024450997451s3320024453087512/",
+                            "latitude": 34.735111,
+                            "longitude": 113.688544,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 17
+                        },
+                        {
+                            "id": 3320024453087718,
+                            "name": "南五里堡",
+                            "pinyin": "li3320024450997451s3320024453087718/",
+                            "latitude": 34.726256,
+                            "longitude": 113.688559,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 18
+                        },
+                        {
+                            "id": 3320024453088053,
+                            "name": "花寨",
+                            "pinyin": "li3320024450997451s3320024453088053/",
+                            "latitude": 34.711669,
+                            "longitude": 113.688854,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 19
+                        },
+                        {
+                            "id": 3320024453092186,
+                            "name": "南三环",
+                            "pinyin": "li3320024450997451s3320024453092186/",
+                            "latitude": 34.704725,
+                            "longitude": 113.688894,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 20
+                        },
+                        {
+                            "id": 3320024453088659,
+                            "name": "站马屯",
+                            "pinyin": "li3320024450997451s3320024453088659/",
+                            "latitude": 34.690201,
+                            "longitude": 113.688987,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 21
+                        },
+                        {
+                            "id": 3320024453088920,
+                            "name": "南四环",
+                            "pinyin": "li3320024450997451s3320024453088920/",
+                            "latitude": 34.66849,
+                            "longitude": 113.688438,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 22
+                        }
+                    ]
+                },
+                {
+                    "name": "城郊线",
+                    "id": 3320036303547541,
+                    "pinyin": "li3320036303547541/",
+                    "baidu_code": "8f0136d15b75ecd09e9d684c",
+                    "line_color": "FFFFFF",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 3320024453088920,
+                            "name": "南四环",
+                            "pinyin": "li3320036303547541s3320024453088920/",
+                            "latitude": 34.66849,
+                            "longitude": 113.688438,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 1
+                        },
+                        {
+                            "id": 3320036304594285,
+                            "name": "十八里河",
+                            "pinyin": "li3320036303547541s3320036304594285/",
+                            "latitude": 34.653665,
+                            "longitude": 113.690285,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 2
+                        },
+                        {
+                            "id": 3320036304594618,
+                            "name": "沙窝李",
+                            "pinyin": "li3320036303547541s3320036304594618/",
+                            "latitude": 34.632931,
+                            "longitude": 113.687946,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 3
+                        },
+                        {
+                            "id": 3320036304595052,
+                            "name": "双湖大道",
+                            "pinyin": "li3320036303547541s3320036304595052/",
+                            "latitude": 34.617092,
+                            "longitude": 113.689419,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 4
+                        },
+                        {
+                            "id": 3320036304595553,
+                            "name": "华南城西",
+                            "pinyin": "li3320036303547541s3320036304595553/",
+                            "latitude": 34.599859,
+                            "longitude": 113.731782,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 5
+                        },
+                        {
+                            "id": 3320036304595778,
+                            "name": "华南城",
+                            "pinyin": "li3320036303547541s3320036304595778/",
+                            "latitude": 34.600228,
+                            "longitude": 113.75583,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 6
+                        },
+                        {
+                            "id": 3320036304596759,
+                            "name": "孟庄",
+                            "pinyin": "li3320036303547541s3320036304596759/",
+                            "latitude": 34.59131,
+                            "longitude": 113.824652,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 7
+                        },
+                        {
+                            "id": 3320036304596952,
+                            "name": "康平湖",
+                            "pinyin": "li3320036303547541s3320036304596952/",
+                            "latitude": 34.590873,
+                            "longitude": 113.859645,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 8
+                        },
+                        {
+                            "id": 3320036305641909,
+                            "name": "兰河公园",
+                            "pinyin": "li3320036303547541s3320036305641909/",
+                            "latitude": 34.582044,
+                            "longitude": 113.866059,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 9
+                        },
+                        {
+                            "id": 3320036305642024,
+                            "name": "恩平湖",
+                            "pinyin": "li3320036303547541s3320036305642024/",
+                            "latitude": 34.573272,
+                            "longitude": 113.866147,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 10
+                        },
+                        {
+                            "id": 3320036305642337,
+                            "name": "综合保税区",
+                            "pinyin": "li3320036303547541s3320036305642337/",
+                            "latitude": 34.555623,
+                            "longitude": 113.863842,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 11
+                        },
+                        {
+                            "id": 3320036305642567,
+                            "name": "新郑机场",
+                            "pinyin": "li3320036303547541s3320036305642567/",
+                            "latitude": 34.532422,
+                            "longitude": 113.859217,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 12
+                        }
+                    ]
+                },
+                {
+                    "name": "5号线",
+                    "id": 3320040850402580,
+                    "pinyin": "li3320040850402580/",
+                    "baidu_code": "385b505553d6de6ae215f9f2",
+                    "line_color": "FFFFFF",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 3320024455186085,
+                            "name": "五一公园",
+                            "pinyin": "li3320040850402580s3320024455186085/",
+                            "latitude": 34.761911,
+                            "longitude": 113.619871,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 1
+                        },
+                        {
+                            "id": 3320041553052091,
+                            "name": "市中心医院",
+                            "pinyin": "li3320040850402580s3320041553052091/",
+                            "latitude": 34.752954,
+                            "longitude": 113.620257,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 2
+                        },
+                        {
+                            "id": 3320041552005907,
+                            "name": "陇海西路",
+                            "pinyin": "li3320040850402580s3320041552005907/",
+                            "latitude": 34.742432,
+                            "longitude": 113.620256,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 3
+                        },
+                        {
+                            "id": 3320041552004106,
+                            "name": "桐淮",
+                            "pinyin": "li3320040850402580s3320041552004106/",
+                            "latitude": 34.734792,
+                            "longitude": 113.620117,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 4
+                        },
+                        {
+                            "id": 3320041550957474,
+                            "name": "后河芦",
+                            "pinyin": "li3320040850402580s3320041550957474/",
+                            "latitude": 34.72676,
+                            "longitude": 113.62598,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 5
+                        },
+                        {
+                            "id": 3320041550956079,
+                            "name": "齐礼阎",
+                            "pinyin": "li3320040850402580s3320041550956079/",
+                            "latitude": 34.726486,
+                            "longitude": 113.634827,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 6
+                        },
+                        {
+                            "id": 3320041550955013,
+                            "name": "市第二人民医院",
+                            "pinyin": "li3320040850402580s3320041550955013/",
+                            "latitude": 34.726877,
+                            "longitude": 113.650533,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 7
+                        },
+                        {
+                            "id": 3320041549909081,
+                            "name": "京广南路",
+                            "pinyin": "li3320040850402580s3320041549909081/",
+                            "latitude": 34.726595,
+                            "longitude": 113.663609,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 8
+                        },
+                        {
+                            "id": 3320041549907795,
+                            "name": "冯庄",
+                            "pinyin": "li3320040850402580s3320041549907795/",
+                            "latitude": 34.726457,
+                            "longitude": 113.674824,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 9
+                        },
+                        {
+                            "id": 3320024453087718,
+                            "name": "南五里堡",
+                            "pinyin": "li3320040850402580s3320024453087718/",
+                            "latitude": 34.726256,
+                            "longitude": 113.688559,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 10
+                        },
+                        {
+                            "id": 3320041548860957,
+                            "name": "城东南路",
+                            "pinyin": "li3320040850402580s3320041548860957/",
+                            "latitude": 34.726563,
+                            "longitude": 113.697045,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 11
+                        },
+                        {
+                            "id": 3320041548859538,
+                            "name": "航海广场",
+                            "pinyin": "li3320040850402580s3320041548859538/",
+                            "latitude": 34.72661,
+                            "longitude": 113.712719,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 12
+                        },
+                        {
+                            "id": 3320041548858384,
+                            "name": "七里河",
+                            "pinyin": "li3320040850402580s3320041548858384/",
+                            "latitude": 34.726612,
+                            "longitude": 113.728802,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 13
+                        },
+                        {
+                            "id": 3320041547812800,
+                            "name": "中原福塔",
+                            "pinyin": "li3320040850402580s3320041547812800/",
+                            "latitude": 34.727026,
+                            "longitude": 113.738767,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 14
+                        },
+                        {
+                            "id": 3320041547811171,
+                            "name": "福塔东",
+                            "pinyin": "li3320040850402580s3320041547811171/",
+                            "latitude": 34.727272,
+                            "longitude": 113.753508,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 15
+                        },
+                        {
+                            "id": 3320041546763941,
+                            "name": "经开中心广场",
+                            "pinyin": "li3320040850402580s3320041546763941/",
+                            "latitude": 34.727269,
+                            "longitude": 113.771097,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 16
+                        },
+                        {
+                            "id": 3320041545715329,
+                            "name": "省骨科医院",
+                            "pinyin": "li3320040850402580s3320041545715329/",
+                            "latitude": 34.750764,
+                            "longitude": 113.779728,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 17
+                        },
+                        {
+                            "id": 3320041477552218,
+                            "name": "康宁街",
+                            "pinyin": "li3320040850402580s3320041477552218/",
+                            "latitude": 34.75642,
+                            "longitude": 113.780274,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 18
+                        },
+                        {
+                            "id": 100021636,
+                            "name": "郑州东站",
+                            "pinyin": "li3320040850402580s100021636/",
+                            "latitude": 34.765409,
+                            "longitude": 113.783792,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 19
+                        },
+                        {
+                            "id": 3320041537326022,
+                            "name": "金水东路",
+                            "pinyin": "li3320040850402580s3320041537326022/",
+                            "latitude": 34.775707,
+                            "longitude": 113.777479,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 20
+                        },
+                        {
+                            "id": 3320041537324220,
+                            "name": "祭城",
+                            "pinyin": "li3320040850402580s3320041537324220/",
+                            "latitude": 34.783048,
+                            "longitude": 113.773174,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 21
+                        },
+                        {
+                            "id": 3320041536278483,
+                            "name": "儿童医院",
+                            "pinyin": "li3320040850402580s3320041536278483/",
+                            "latitude": 34.783541,
+                            "longitude": 113.757137,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 22
+                        },
+                        {
+                            "id": 3320041536276914,
+                            "name": "中央商务区",
+                            "pinyin": "li3320040850402580s3320041536276914/",
+                            "latitude": 34.783991,
+                            "longitude": 113.737005,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 23
+                        },
+                        {
+                            "id": 3320041528937078,
+                            "name": "众意西路",
+                            "pinyin": "li3320040850402580s3320041528937078/",
+                            "latitude": 34.782031,
+                            "longitude": 113.725417,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 24
+                        },
+                        {
+                            "id": 3320041528935021,
+                            "name": "姚砦",
+                            "pinyin": "li3320040850402580s3320041528935021/",
+                            "latitude": 34.780165,
+                            "longitude": 113.714859,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 25
+                        },
+                        {
+                            "id": 3320041527888690,
+                            "name": "省人民医院",
+                            "pinyin": "li3320040850402580s3320041527888690/",
+                            "latitude": 34.780312,
+                            "longitude": 113.699146,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 26
+                        },
+                        {
+                            "id": 3320024452041966,
+                            "name": "黄河路",
+                            "pinyin": "li3320040850402580s3320024452041966/",
+                            "latitude": 34.780214,
+                            "longitude": 113.688612,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 27
+                        },
+                        {
+                            "id": 3320041527886020,
+                            "name": "郑州人民医院",
+                            "pinyin": "li3320040850402580s3320041527886020/",
+                            "latitude": 34.78066,
+                            "longitude": 113.673668,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 28
+                        },
+                        {
+                            "id": 3320041526840334,
+                            "name": "海滩寺",
+                            "pinyin": "li3320040850402580s3320041526840334/",
+                            "latitude": 34.780725,
+                            "longitude": 113.656182,
+                            "is_transfer": 1,
+                            "border_color": "FFFFFF",
+                            "sort": 29
+                        },
+                        {
+                            "id": 3320041526838310,
+                            "name": "沙口路",
+                            "pinyin": "li3320040850402580s3320041526838310/",
+                            "latitude": 34.777033,
+                            "longitude": 113.647398,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 30
+                        },
+                        {
+                            "id": 3320041524743123,
+                            "name": "月季公园",
+                            "pinyin": "li3320040850402580s3320041524743123/",
+                            "latitude": 34.771858,
+                            "longitude": 113.629275,
+                            "is_transfer": 0,
+                            "border_color": "FFFFFF",
+                            "sort": 31
+                        }
+                    ]
+                }
+            ]
+        },
+        "d": {
+            "name": "全郑州",
+            "type": "radio",
+            "options": [
+                {
+                    "name": "不限",
+                    "id": 0,
+                    "pinyin": "/",
+                    "children": []
+                },
+                {
+                    "name": "二七区",
+                    "id": 23008753,
+                    "pinyin": "erqiqu/",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 1100001447,
+                            "name": "碧沙岗",
+                            "pinyin": "bishagang/"
+                        },
+                        {
+                            "id": 1100001449,
+                            "name": "常西湖",
+                            "pinyin": "changxihu/"
+                        },
+                        {
+                            "id": 1100001400,
+                            "name": "大石桥",
+                            "pinyin": "dashiqiao/"
+                        },
+                        {
+                            "id": 1100001438,
+                            "name": "电力新村",
+                            "pinyin": "dianlixincun/"
+                        },
+                        {
+                            "id": 1100001445,
+                            "name": "帝湖",
+                            "pinyin": "dihu/"
+                        },
+                        {
+                            "id": 1100001426,
+                            "name": "二七广场",
+                            "pinyin": "erqiguangchang/"
+                        },
+                        {
+                            "id": 1100001441,
+                            "name": "古玩城",
+                            "pinyin": "guwancheng/"
+                        },
+                        {
+                            "id": 1100001458,
+                            "name": "火车站",
+                            "pinyin": "huochezhan5/"
+                        },
+                        {
+                            "id": 1100001459,
+                            "name": "河医立交桥",
+                            "pinyin": "heyilijiaoqiao/"
+                        },
+                        {
+                            "id": 1100001428,
+                            "name": "陇海汽车站",
+                            "pinyin": "longhaiqichezhan/"
+                        },
+                        {
+                            "id": 1100001443,
+                            "name": "老航院",
+                            "pinyin": "laohangyuan/"
+                        },
+                        {
+                            "id": 1100001456,
+                            "name": "老郑大",
+                            "pinyin": "laozhengda/"
+                        },
+                        {
+                            "id": 1100001417,
+                            "name": "人民路",
+                            "pinyin": "renminlu2/"
+                        },
+                        {
+                            "id": 1100001403,
+                            "name": "沙口路",
+                            "pinyin": "shakoulu/"
+                        },
+                        {
+                            "id": 1100001440,
+                            "name": "市财政局",
+                            "pinyin": "shicaizhengju/"
+                        },
+                        {
+                            "id": 1100001446,
+                            "name": "万客来",
+                            "pinyin": "wankelai/"
+                        },
+                        {
+                            "id": 1100001448,
+                            "name": "五一公园",
+                            "pinyin": "wuyigongyuan/"
+                        },
+                        {
+                            "id": 1100001442,
+                            "name": "鞋城",
+                            "pinyin": "xiecheng/"
+                        },
+                        {
+                            "id": 1100001444,
+                            "name": "兴华南街",
+                            "pinyin": "xinghuananjie/"
+                        },
+                        {
+                            "id": 1100001430,
+                            "name": "月季公园",
+                            "pinyin": "yuejigongyuan/"
+                        },
+                        {
+                            "id": 1100001439,
+                            "name": "郑州晚报社",
+                            "pinyin": "zhengzhouwanbaoshe/"
+                        }
+                    ]
+                },
+                {
+                    "name": "中原区",
+                    "id": 23008754,
+                    "pinyin": "zhongyuanqu1/",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 1100001447,
+                            "name": "碧沙岗",
+                            "pinyin": "bishagang/"
+                        },
+                        {
+                            "id": 1100001449,
+                            "name": "常西湖",
+                            "pinyin": "changxihu/"
+                        },
+                        {
+                            "id": 1100001438,
+                            "name": "电力新村",
+                            "pinyin": "dianlixincun/"
+                        },
+                        {
+                            "id": 1100001445,
+                            "name": "帝湖",
+                            "pinyin": "dihu/"
+                        },
+                        {
+                            "id": 1100001437,
+                            "name": "儿童公园",
+                            "pinyin": "ertonggongyuan/"
+                        },
+                        {
+                            "id": 1100007221,
+                            "name": "高新万科",
+                            "pinyin": "gaoxinwanke/"
+                        },
+                        {
+                            "id": 1100001459,
+                            "name": "河医立交桥",
+                            "pinyin": "heyilijiaoqiao/"
+                        },
+                        {
+                            "id": 1100001434,
+                            "name": "交警二大队",
+                            "pinyin": "jiaojingerdadui/"
+                        },
+                        {
+                            "id": 1100001433,
+                            "name": "汽车西站",
+                            "pinyin": "qichexizhan1/"
+                        },
+                        {
+                            "id": 1100001432,
+                            "name": "热电厂",
+                            "pinyin": "redianchang1/"
+                        },
+                        {
+                            "id": 1100001403,
+                            "name": "沙口路",
+                            "pinyin": "shakoulu/"
+                        },
+                        {
+                            "id": 1100001440,
+                            "name": "市财政局",
+                            "pinyin": "shicaizhengju/"
+                        },
+                        {
+                            "id": 1100007222,
+                            "name": "双湖科技城",
+                            "pinyin": "shuanghukejicheng/"
+                        },
+                        {
+                            "id": 1100001431,
+                            "name": "五龙口",
+                            "pinyin": "wulongkou/"
+                        },
+                        {
+                            "id": 1100001448,
+                            "name": "五一公园",
+                            "pinyin": "wuyigongyuan/"
+                        },
+                        {
+                            "id": 1100007202,
+                            "name": "梧桐",
+                            "pinyin": "wutong/"
+                        },
+                        {
+                            "id": 1100001444,
+                            "name": "兴华南街",
+                            "pinyin": "xinghuananjie/"
+                        },
+                        {
+                            "id": 1100001430,
+                            "name": "月季公园",
+                            "pinyin": "yuejigongyuan/"
+                        },
+                        {
+                            "id": 1100001435,
+                            "name": "中原万达",
+                            "pinyin": "zhongyuanwanda/"
+                        },
+                        {
+                            "id": 1100001436,
+                            "name": "郑州一中",
+                            "pinyin": "zhengzhouyizhong/"
+                        },
+                        {
+                            "id": 1100001439,
+                            "name": "郑州晚报社",
+                            "pinyin": "zhengzhouwanbaoshe/"
+                        }
+                    ]
+                },
+                {
+                    "name": "管城回族区",
+                    "id": 23008755,
+                    "pinyin": "guanchenghuizuqu/",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 1100006894,
+                            "name": "滨河国际新城商圈",
+                            "pinyin": "binheguojixinchengshangquan/"
+                        },
+                        {
+                            "id": 1100001402,
+                            "name": "东建材",
+                            "pinyin": "dongjiancai/"
+                        },
+                        {
+                            "id": 1100001464,
+                            "name": "第三大街",
+                            "pinyin": "disandajie1/"
+                        },
+                        {
+                            "id": 1100001426,
+                            "name": "二七广场",
+                            "pinyin": "erqiguangchang/"
+                        },
+                        {
+                            "id": 1100001429,
+                            "name": "二里岗",
+                            "pinyin": "erligang/"
+                        },
+                        {
+                            "id": 1100001422,
+                            "name": "凤凰路",
+                            "pinyin": "fenghuanglu/"
+                        },
+                        {
+                            "id": 1100001463,
+                            "name": "管南区域",
+                            "pinyin": "guannanquyu/"
+                        },
+                        {
+                            "id": 1100001458,
+                            "name": "火车站",
+                            "pinyin": "huochezhan5/"
+                        },
+                        {
+                            "id": 1100001428,
+                            "name": "陇海汽车站",
+                            "pinyin": "longhaiqichezhan/"
+                        },
+                        {
+                            "id": 1100001417,
+                            "name": "人民路",
+                            "pinyin": "renminlu2/"
+                        },
+                        {
+                            "id": 1100001418,
+                            "name": "商代遗址",
+                            "pinyin": "shangdaiyizhi/"
+                        },
+                        {
+                            "id": 1100001462,
+                            "name": "世纪欢乐园",
+                            "pinyin": "shijihuanleyuan/"
+                        },
+                        {
+                            "id": 1100001442,
+                            "name": "鞋城",
+                            "pinyin": "xiecheng/"
+                        },
+                        {
+                            "id": 1100001401,
+                            "name": "燕庄",
+                            "pinyin": "yanzhuang/"
+                        },
+                        {
+                            "id": 1100006707,
+                            "name": "紫荆山",
+                            "pinyin": "zijingshan/"
+                        }
+                    ]
+                },
+                {
+                    "name": "惠济区",
+                    "id": 23008756,
+                    "pinyin": "huijiqu/",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 1100001416,
+                            "name": "北大学城",
+                            "pinyin": "beidaxuecheng/"
+                        },
+                        {
+                            "id": 1100007288,
+                            "name": "惠济万达",
+                            "pinyin": "huijiwanda/"
+                        },
+                        {
+                            "id": 1100001390,
+                            "name": "绿茵广场",
+                            "pinyin": "lvyinguangchang/"
+                        },
+                        {
+                            "id": 1100001455,
+                            "name": "邙山",
+                            "pinyin": "mangshan/"
+                        },
+                        {
+                            "id": 1100001450,
+                            "name": "南阳路",
+                            "pinyin": "nanyanglu/"
+                        },
+                        {
+                            "id": 1100001387,
+                            "name": "普罗旺世",
+                            "pinyin": "puluowangshi/"
+                        },
+                        {
+                            "id": 1100001381,
+                            "name": "索凌路北段",
+                            "pinyin": "suolinglubeiduan/"
+                        },
+                        {
+                            "id": 1100001452,
+                            "name": "省体育中心",
+                            "pinyin": "shengtiyuzhongxin1/"
+                        },
+                        {
+                            "id": 1100001453,
+                            "name": "外国语",
+                            "pinyin": "waiguoyu1/"
+                        },
+                        {
+                            "id": 1100001454,
+                            "name": "新郑大",
+                            "pinyin": "xinzhengda/"
+                        }
+                    ]
+                },
+                {
+                    "name": "金水区",
+                    "id": 23008757,
+                    "pinyin": "jinshuiqu1/",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 1100001379,
+                            "name": "北站",
+                            "pinyin": "beizhan/"
+                        },
+                        {
+                            "id": 1100001416,
+                            "name": "北大学城",
+                            "pinyin": "beidaxuecheng/"
+                        },
+                        {
+                            "id": 1100001460,
+                            "name": "北龙湖北",
+                            "pinyin": "beilonghubei/"
+                        },
+                        {
+                            "id": 1100001386,
+                            "name": "财富广场",
+                            "pinyin": "caifuguangchang/"
+                        },
+                        {
+                            "id": 1100001388,
+                            "name": "陈寨",
+                            "pinyin": "chenzhai/"
+                        },
+                        {
+                            "id": 1100001400,
+                            "name": "大石桥",
+                            "pinyin": "dashiqiao/"
+                        },
+                        {
+                            "id": 1100001402,
+                            "name": "东建材",
+                            "pinyin": "dongjiancai/"
+                        },
+                        {
+                            "id": 1100001426,
+                            "name": "二七广场",
+                            "pinyin": "erqiguangchang/"
+                        },
+                        {
+                            "id": 1100001385,
+                            "name": "海洋馆",
+                            "pinyin": "haiyangguan/"
+                        },
+                        {
+                            "id": 1100001405,
+                            "name": "花园路",
+                            "pinyin": "huayuanlu1/"
+                        },
+                        {
+                            "id": 1100001458,
+                            "name": "火车站",
+                            "pinyin": "huochezhan5/"
+                        },
+                        {
+                            "id": 1100001459,
+                            "name": "河医立交桥",
+                            "pinyin": "heyilijiaoqiao/"
+                        },
+                        {
+                            "id": 1100007288,
+                            "name": "惠济万达",
+                            "pinyin": "huijiwanda/"
+                        },
+                        {
+                            "id": 1100001394,
+                            "name": "科技市场",
+                            "pinyin": "kejishichang/"
+                        },
+                        {
+                            "id": 1100001390,
+                            "name": "绿茵广场",
+                            "pinyin": "lvyinguangchang/"
+                        },
+                        {
+                            "id": 1100001450,
+                            "name": "南阳路",
+                            "pinyin": "nanyanglu/"
+                        },
+                        {
+                            "id": 1100001387,
+                            "name": "普罗旺世",
+                            "pinyin": "puluowangshi/"
+                        },
+                        {
+                            "id": 1100001378,
+                            "name": "汽配大世界",
+                            "pinyin": "qipeidashijie/"
+                        },
+                        {
+                            "id": 1100001397,
+                            "name": "轻工业学院",
+                            "pinyin": "qinggongyexueyuan/"
+                        },
+                        {
+                            "id": 1100001399,
+                            "name": "青少年公园",
+                            "pinyin": "qingshaoniangongyuan/"
+                        },
+                        {
+                            "id": 1100001417,
+                            "name": "人民路",
+                            "pinyin": "renminlu2/"
+                        },
+                        {
+                            "id": 1100001381,
+                            "name": "索凌路北段",
+                            "pinyin": "suolinglubeiduan/"
+                        },
+                        {
+                            "id": 1100001389,
+                            "name": "省中医院",
+                            "pinyin": "shengzhongyiyuan/"
+                        },
+                        {
+                            "id": 1100001393,
+                            "name": "省人民医院",
+                            "pinyin": "shengrenminyiyuan2/"
+                        },
+                        {
+                            "id": 1100001403,
+                            "name": "沙口路",
+                            "pinyin": "shakoulu/"
+                        },
+                        {
+                            "id": 1100001418,
+                            "name": "商代遗址",
+                            "pinyin": "shangdaiyizhi/"
+                        },
+                        {
+                            "id": 1100001452,
+                            "name": "省体育中心",
+                            "pinyin": "shengtiyuzhongxin1/"
+                        },
+                        {
+                            "id": 1100001398,
+                            "name": "未来大厦",
+                            "pinyin": "weilaidasha/"
+                        },
+                        {
+                            "id": 1100001406,
+                            "name": "文博广场",
+                            "pinyin": "wenboguangchang/"
+                        },
+                        {
+                            "id": 1100001376,
+                            "name": "新北站",
+                            "pinyin": "xinbeizhan/"
+                        },
+                        {
+                            "id": 1100001404,
+                            "name": "徐寨",
+                            "pinyin": "xuzhai/"
+                        },
+                        {
+                            "id": 1100001401,
+                            "name": "燕庄",
+                            "pinyin": "yanzhuang/"
+                        },
+                        {
+                            "id": 1100001461,
+                            "name": "杨金路",
+                            "pinyin": "yangjinlu/"
+                        },
+                        {
+                            "id": 1100001384,
+                            "name": "枣庄",
+                            "pinyin": "zaozhuang/"
+                        },
+                        {
+                            "id": 1100006707,
+                            "name": "紫荆山",
+                            "pinyin": "zijingshan/"
+                        }
+                    ]
+                },
+                {
+                    "name": "郑东新区",
+                    "id": 23009299,
+                    "pinyin": "zhengdongxinqu/",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 1100001379,
+                            "name": "北站",
+                            "pinyin": "beizhan/"
+                        },
+                        {
+                            "id": 1100001412,
+                            "name": "北龙湖西",
+                            "pinyin": "beilonghuxi/"
+                        },
+                        {
+                            "id": 1100001413,
+                            "name": "北龙湖东",
+                            "pinyin": "beilonghudong/"
+                        },
+                        {
+                            "id": 1100001460,
+                            "name": "北龙湖北",
+                            "pinyin": "beilonghubei/"
+                        },
+                        {
+                            "id": 1100001702,
+                            "name": "白沙",
+                            "pinyin": "baisha/"
+                        },
+                        {
+                            "id": 1100001407,
+                            "name": "CBD",
+                            "pinyin": "cbd1/"
+                        },
+                        {
+                            "id": 1100001465,
+                            "name": "第八大街",
+                            "pinyin": "dibadajie/"
+                        },
+                        {
+                            "id": 1100001409,
+                            "name": "黄河南路",
+                            "pinyin": "huanghenanlu/"
+                        },
+                        {
+                            "id": 1100001408,
+                            "name": "通泰路",
+                            "pinyin": "tongtailu/"
+                        },
+                        {
+                            "id": 1100001704,
+                            "name": "万滩",
+                            "pinyin": "wantan/"
+                        },
+                        {
+                            "id": 1100001703,
+                            "name": "象湖",
+                            "pinyin": "xianghu1/"
+                        },
+                        {
+                            "id": 1100007231,
+                            "name": "熙地港",
+                            "pinyin": "xidigang/"
+                        },
+                        {
+                            "id": 1100001401,
+                            "name": "燕庄",
+                            "pinyin": "yanzhuang/"
+                        },
+                        {
+                            "id": 1100001461,
+                            "name": "杨金路",
+                            "pinyin": "yangjinlu/"
+                        },
+                        {
+                            "id": 1100001411,
+                            "name": "郑州东站",
+                            "pinyin": "zhengzhoudongzhan/"
+                        },
+                        {
+                            "id": 1100001414,
+                            "name": "祭城",
+                            "pinyin": "zhaicheng/"
+                        },
+                        {
+                            "id": 1100001547,
+                            "name": "中牟城区",
+                            "pinyin": "zhongmuchengqu/"
+                        },
+                        {
+                            "id": 1100007232,
+                            "name": "郑东老街",
+                            "pinyin": "zhengdonglaojie/"
+                        }
+                    ]
+                },
+                {
+                    "name": "荥阳市",
+                    "id": 23009443,
+                    "pinyin": "xingyangshi/",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 1100001449,
+                            "name": "常西湖",
+                            "pinyin": "changxihu/"
+                        },
+                        {
+                            "id": 1100007221,
+                            "name": "高新万科",
+                            "pinyin": "gaoxinwanke/"
+                        },
+                        {
+                            "id": 1100001455,
+                            "name": "邙山",
+                            "pinyin": "mangshan/"
+                        },
+                        {
+                            "id": 1100007222,
+                            "name": "双湖科技城",
+                            "pinyin": "shuanghukejicheng/"
+                        },
+                        {
+                            "id": 1100001454,
+                            "name": "新郑大",
+                            "pinyin": "xinzhengda/"
+                        },
+                        {
+                            "id": 1100001541,
+                            "name": "荥阳城区",
+                            "pinyin": "xingyangchengqu/"
+                        }
+                    ]
+                },
+                {
+                    "name": "新郑市",
+                    "id": 23009444,
+                    "pinyin": "xinzhengshi/",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 1100004068,
+                            "name": "航空港商圈",
+                            "pinyin": "hangkonggangshangquan/"
+                        },
+                        {
+                            "id": 1100004069,
+                            "name": "南龙湖商圈",
+                            "pinyin": "nanlonghushangquan/"
+                        },
+                        {
+                            "id": 1100004071,
+                            "name": "双鹤湖商圈",
+                            "pinyin": "shuanghehushangquan/"
+                        },
+                        {
+                            "id": 1100001543,
+                            "name": "新郑城区",
+                            "pinyin": "xinzhengchengqu/"
+                        },
+                        {
+                            "id": 1100004070,
+                            "name": "园博园商圈",
+                            "pinyin": "yuanboyuanshangquan/"
+                        }
+                    ]
+                },
+                {
+                    "name": "上街区",
+                    "id": 23009445,
+                    "pinyin": "shangjiequ/",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 1100001542,
+                            "name": "上街区",
+                            "pinyin": "shangjiequ1/"
+                        }
+                    ]
+                },
+                {
+                    "name": "巩义市",
+                    "id": 23009446,
+                    "pinyin": "gongyishi/",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 1100001544,
+                            "name": "巩义市",
+                            "pinyin": "gongyishi1/"
+                        }
+                    ]
+                },
+                {
+                    "name": "新密市",
+                    "id": 23009447,
+                    "pinyin": "xinmishi/",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 1100001545,
+                            "name": "新密市",
+                            "pinyin": "xinmishi1/"
+                        }
+                    ]
+                },
+                {
+                    "name": "登封市",
+                    "id": 23009448,
+                    "pinyin": "dengfengshi/",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 1100001546,
+                            "name": "登封市",
+                            "pinyin": "dengfengshi1/"
+                        }
+                    ]
+                },
+                {
+                    "name": "中牟县",
+                    "id": 23009449,
+                    "pinyin": "zhongmuxian/",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 1100001702,
+                            "name": "白沙",
+                            "pinyin": "baisha/"
+                        },
+                        {
+                            "id": 1100001465,
+                            "name": "第八大街",
+                            "pinyin": "dibadajie/"
+                        },
+                        {
+                            "id": 1100004068,
+                            "name": "航空港商圈",
+                            "pinyin": "hangkonggangshangquan/"
+                        },
+                        {
+                            "id": 1100001547,
+                            "name": "中牟城区",
+                            "pinyin": "zhongmuchengqu/"
+                        }
+                    ]
+                },
+                {
+                    "name": "经开区",
+                    "id": 23009450,
+                    "pinyin": "jingkaiqu/",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 1100001702,
+                            "name": "白沙",
+                            "pinyin": "baisha/"
+                        },
+                        {
+                            "id": 1100006894,
+                            "name": "滨河国际新城商圈",
+                            "pinyin": "binheguojixinchengshangquan/"
+                        },
+                        {
+                            "id": 1100001464,
+                            "name": "第三大街",
+                            "pinyin": "disandajie1/"
+                        },
+                        {
+                            "id": 1100001465,
+                            "name": "第八大街",
+                            "pinyin": "dibadajie/"
+                        },
+                        {
+                            "id": 1100001411,
+                            "name": "郑州东站",
+                            "pinyin": "zhengzhoudongzhan/"
+                        },
+                        {
+                            "id": 1100001547,
+                            "name": "中牟城区",
+                            "pinyin": "zhongmuchengqu/"
+                        }
+                    ]
+                },
+                {
+                    "name": "高新区",
+                    "id": 23009451,
+                    "pinyin": "gaoxinqu18/",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 1100001449,
+                            "name": "常西湖",
+                            "pinyin": "changxihu/"
+                        },
+                        {
+                            "id": 1100007200,
+                            "name": "公园道",
+                            "pinyin": "gongyuandao/"
+                        },
+                        {
+                            "id": 1100007221,
+                            "name": "高新万科",
+                            "pinyin": "gaoxinwanke/"
+                        },
+                        {
+                            "id": 1100001455,
+                            "name": "邙山",
+                            "pinyin": "mangshan/"
+                        },
+                        {
+                            "id": 1100001450,
+                            "name": "南阳路",
+                            "pinyin": "nanyanglu/"
+                        },
+                        {
+                            "id": 1100001403,
+                            "name": "沙口路",
+                            "pinyin": "shakoulu/"
+                        },
+                        {
+                            "id": 1100007201,
+                            "name": "石佛",
+                            "pinyin": "shifo/"
+                        },
+                        {
+                            "id": 1100007222,
+                            "name": "双湖科技城",
+                            "pinyin": "shuanghukejicheng/"
+                        },
+                        {
+                            "id": 1100001431,
+                            "name": "五龙口",
+                            "pinyin": "wulongkou/"
+                        },
+                        {
+                            "id": 1100001453,
+                            "name": "外国语",
+                            "pinyin": "waiguoyu1/"
+                        },
+                        {
+                            "id": 1100007202,
+                            "name": "梧桐",
+                            "pinyin": "wutong/"
+                        },
+                        {
+                            "id": 1100001454,
+                            "name": "新郑大",
+                            "pinyin": "xinzhengda/"
+                        }
+                    ]
+                },
+                {
+                    "name": "航空港区",
+                    "id": 23011831,
+                    "pinyin": "hangkonggangqu/",
+                    "children": [
+                        {
+                            "id": 0,
+                            "name": "不限",
+                            "pinyin": "/"
+                        },
+                        {
+                            "id": 1100001465,
+                            "name": "第八大街",
+                            "pinyin": "dibadajie/"
+                        },
+                        {
+                            "id": 1100004068,
+                            "name": "航空港商圈",
+                            "pinyin": "hangkonggangshangquan/"
+                        },
+                        {
+                            "id": 1100004071,
+                            "name": "双鹤湖商圈",
+                            "pinyin": "shuanghehushangquan/"
+                        },
+                        {
+                            "id": 1100004070,
+                            "name": "园博园商圈",
+                            "pinyin": "yuanboyuanshangquan/"
+                        },
+                        {
+                            "id": 1100001547,
+                            "name": "中牟城区",
+                            "pinyin": "zhongmuchengqu/"
+                        }
+                    ]
+                }
+            ]
+        },
+        "poi": {
+            "name": "定位附近",
+            "key": "poi",
+            "type": "radio",
+            "is_basic": 1,
+            "options": [
+                {
+                    "name": "不限",
+                    "pinyin": ""
+                },
+                {
+                    "name": "1km",
+                    "pinyin": "poi1000"
+                },
+                {
+                    "name": "2km",
+                    "pinyin": "poi2000"
+                },
+                {
+                    "name": "3km",
+                    "pinyin": "poi3000"
+                }
+            ]
+        },
+        "rt": {
+            "name": "方式",
+            "key": "rt",
+            "type": "checkbox",
+            "is_basic": 1,
+            "options": [
+                {
+                    "name": "整租",
+                    "pinyin": "rt200600000001"
+                },
+                {
+                    "name": "合租",
+                    "pinyin": "rt200600000002"
+                }
+            ]
+        },
+        "rp": {
+            "name": "租金",
+            "type": "radio",
+            "key": "rp",
+            "options": [
+                {
+                    "name": "不限",
+                    "pinyin": "rp0"
+                },
+                {
+                    "name": "≤1000元",
+                    "pinyin": "rp1"
+                },
+                {
+                    "name": "1000-1500元",
+                    "pinyin": "rp2"
+                },
+                {
+                    "name": "1500-2000元",
+                    "pinyin": "rp3"
+                },
+                {
+                    "name": "2000-3000元",
+                    "pinyin": "rp4"
+                },
+                {
+                    "name": "3000-4500元",
+                    "pinyin": "rp5"
+                },
+                {
+                    "name": "≥4500元",
+                    "pinyin": "rp6"
+                }
+            ],
+            "is_basic": 1,
+            "seekbar": {
+                "default_min_value": 0,
+                "default_max_value": 4500,
+                "min_display": 0,
+                "max_display": "不限",
+                "min_key": "brp",
+                "max_key": "erp",
+                "step": 100,
+                "unit": "元"
+            }
+        },
+        "art": {
+            "name": "可入住时间",
+            "type": "radio",
+            "key": "art",
+            "options": null
+        },
+        "cmd": {
+            "name": "通勤时间",
+            "key": "cmd",
+            "type": "checkbox",
+            "is_basic": 1,
+            "options": [
+                {
+                    "name": "通勤15min",
+                    "filter_name": "15分钟",
+                    "pinyin": "cmd15",
+                    "selected": 0
+                },
+                {
+                    "name": "通勤30min",
+                    "filter_name": "30分钟",
+                    "pinyin": "cmd30",
+                    "selected": 0
+                },
+                {
+                    "name": "通勤45min",
+                    "filter_name": "45分钟",
+                    "pinyin": "cmd45",
+                    "selected": 1
+                },
+                {
+                    "name": "通勤60min",
+                    "filter_name": "1小时",
+                    "pinyin": "cmd60",
+                    "selected": 0
+                }
+            ]
+        },
+        "zrn": {
+            "name": "整租",
+            "key": "zrn",
+            "type": "checkbox",
+            "is_basic": 1,
+            "options": [
+                {
+                    "name": "不限",
+                    "pinyin": "zrn0"
+                },
+                {
+                    "name": "1居",
+                    "pinyin": "zrn1"
+                },
+                {
+                    "name": "2居",
+                    "pinyin": "zrn2"
+                },
+                {
+                    "name": "3居+",
+                    "pinyin": "zrn3"
+                }
+            ]
+        },
+        "hrn": {
+            "name": "合租",
+            "key": "hrn",
+            "type": "checkbox",
+            "is_basic": 1,
+            "options": [
+                {
+                    "name": "不限",
+                    "pinyin": "hrn0"
+                },
+                {
+                    "name": "2居",
+                    "pinyin": "hrn2"
+                },
+                {
+                    "name": "3居",
+                    "pinyin": "hrn3"
+                },
+                {
+                    "name": "4居+",
+                    "pinyin": "hrn4"
+                }
+            ]
+        },
+        "l": {
+            "name": "户型",
+            "key": "l",
+            "type": "checkbox",
+            "is_basic": 1,
+            "options": [
+                {
+                    "name": "一居",
+                    "pinyin": "l0"
+                },
+                {
+                    "name": "两居",
+                    "pinyin": "l1"
+                },
+                {
+                    "name": "三居",
+                    "pinyin": "l2"
+                },
+                {
+                    "name": "四居+",
+                    "pinyin": "l3"
+                }
+            ]
+        },
+        "more": [
+            {
+                "name": "面积",
+                "key": "ra",
+                "type": "checkbox",
+                "is_basic": 0,
+                "options": [
+                    {
+                        "name": "≤40㎡",
+                        "pinyin": "ra0"
+                    },
+                    {
+                        "name": "40-60㎡",
+                        "pinyin": "ra1"
+                    },
+                    {
+                        "name": "60-80㎡",
+                        "pinyin": "ra2"
+                    },
+                    {
+                        "name": "80-100㎡",
+                        "pinyin": "ra3"
+                    },
+                    {
+                        "name": "100-120㎡",
+                        "pinyin": "ra4"
+                    },
+                    {
+                        "name": "≥120㎡",
+                        "pinyin": "ra5"
+                    }
+                ]
+            },
+            {
+                "name": "房源亮点",
+                "key": "tt",
+                "type": "checkbox",
+                "is_basic": 0,
+                "options": [
+                    {
+                        "name": "必看好房",
+                        "pinyin": "hot1",
+                        "type": "base"
+                    },
+                    {
+                        "name": "独卫",
+                        "pinyin": "br1",
+                        "type": "hezu"
+                    },
+                    {
+                        "name": "近地铁",
+                        "pinyin": "su1",
+                        "type": "base"
+                    },
+                    {
+                        "name": "拎包入住",
+                        "pinyin": "bc1",
+                        "type": "base"
+                    },
+                    {
+                        "name": "精装修",
+                        "pinyin": "de1",
+                        "type": "base"
+                    },
+                    {
+                        "name": "独立阳台",
+                        "pinyin": "ib1",
+                        "type": "hezu"
+                    },
+                    {
+                        "name": "集中供暖",
+                        "pinyin": "ct1",
+                        "type": "base"
+                    },
+                    {
+                        "name": "押一付一",
+                        "pinyin": "rpw1",
+                        "type": "base"
+                    },
+                    {
+                        "name": "双卫",
+                        "pinyin": "db1",
+                        "type": "zhengzu"
+                    },
+                    {
+                        "name": "新上",
+                        "pinyin": "in1",
+                        "type": "base"
+                    },
+                    {
+                        "name": "认证公寓",
+                        "pinyin": "ht1",
+                        "type": "base"
+                    },
+                    {
+                        "name": "随时看房",
+                        "pinyin": "hk1",
+                        "type": "base"
+                    },
+                    {
+                        "name": "VR房源",
+                        "pinyin": "vr1",
+                        "type": "base"
+                    },
+                    {
+                        "name": "业主自荐",
+                        "pinyin": "orec1",
+                        "type": "base"
+                    }
+                ]
+            },
+            {
+                "name": "朝向",
+                "key": "f",
+                "type": "radio",
+                "is_basic": 1,
+                "options": [
+                    {
+                        "name": "东",
+                        "pinyin": "f100500000001"
+                    },
+                    {
+                        "name": "西",
+                        "pinyin": "f100500000005"
+                    },
+                    {
+                        "name": "南",
+                        "pinyin": "f100500000003"
+                    },
+                    {
+                        "name": "北",
+                        "pinyin": "f100500000007"
+                    },
+                    {
+                        "name": "南北",
+                        "pinyin": "f100500000009"
+                    }
+                ]
+            },
+            {
+                "name": "租期",
+                "key": "rmp",
+                "type": "radio",
+                "is_basic": 1,
+                "options": [
+                    {
+                        "name": "月租",
+                        "pinyin": "rmp1"
+                    },
+                    {
+                        "name": "年租",
+                        "pinyin": "rmp2"
+                    }
+                ]
+            },
+            {
+                "name": "电梯",
+                "key": "ie",
+                "type": "checkbox",
+                "is_basic": 1,
+                "options": [
+                    {
+                        "name": "无电梯",
+                        "pinyin": "ie0"
+                    },
+                    {
+                        "name": "有电梯",
+                        "pinyin": "ie1"
+                    }
+                ]
+            },
+            {
+                "name": "品牌",
+                "key": "ab",
+                "type": "checkbox",
+                "is_basic": 1,
+                "options": [
+                    {
+                        "name": "链家",
+                        "pinyin": "ab200301001000",
+                        "display_control": "home,list"
+                    },
+                    {
+                        "name": "自如",
+                        "pinyin": "ab200302002000",
+                        "display_control": "home,list"
+                    },
+                    {
+                        "name": "龙湖冠寓",
+                        "pinyin": "ab200306004489",
+                        "display_control": "home,list"
+                    },
+                    {
+                        "name": "广发租房",
+                        "pinyin": "ab200306000339",
+                        "display_control": "home,list"
+                    },
+                    {
+                        "name": "世联红璞公寓",
+                        "pinyin": "ab200302132000",
+                        "display_control": "home,list"
+                    },
+                    {
+                        "name": "龙鼎易居公寓",
+                        "pinyin": "ab200306001760",
+                        "display_control": "home,list"
+                    },
+                    {
+                        "name": "新贝公寓",
+                        "pinyin": "ab200306009976",
+                        "display_control": "home,list"
+                    },
+                    {
+                        "name": "中野连合公寓",
+                        "pinyin": "ab200306007582",
+                        "display_control": "home,list"
+                    },
+                    {
+                        "name": "天达公寓",
+                        "pinyin": "ab200306001188",
+                        "display_control": "home,list"
+                    },
+                    {
+                        "name": "凌天公寓",
+                        "pinyin": "ab200306003285",
+                        "display_control": "home,list"
+                    }
+                ]
+            },
+            {
+                "name": "入住时间",
+                "key": "rtp",
+                "type": "radio",
+                "is_basic": 1,
+                "options": [
+                    {
+                        "name": "近5天内",
+                        "pinyin": "rtp5"
+                    },
+                    {
+                        "name": "近10天内",
+                        "pinyin": "rtp10"
+                    },
+                    {
+                        "name": "近15天内",
+                        "pinyin": "rtp15"
+                    },
+                    {
+                        "name": "近20天内",
+                        "pinyin": "rtp20"
+                    },
+                    {
+                        "name": "近30天内",
+                        "pinyin": "rtp30"
+                    }
+                ]
+            },
+            {
+                "name": "楼层",
+                "key": "lc",
+                "type": "checkbox",
+                "is_basic": 1,
+                "options": [
+                    {
+                        "name": "低楼层",
+                        "pinyin": "lc200500000003"
+                    },
+                    {
+                        "name": "中楼层",
+                        "pinyin": "lc200500000002"
+                    },
+                    {
+                        "name": "高楼层",
+                        "pinyin": "lc200500000001"
+                    }
+                ]
+            },
+            {
+                "name": "服务保障",
+                "key": "als",
+                "is_basic": 1,
+                "type": "checkbox",
+                "hint": {
+                    "image": "https://image1.ljcdn.com/rent-front-image/2697f90220aa2663f8ac7fe8c6491618.1522674873022_fcda4f1e-92b0-4520-bb45-707c6828c4ca",
+                    "scheme": "https://weixin.ke.com/chuzu/zz/promise/desc/"
+                },
+                "options": [
+                    {
+                        "name": "品质认证",
+                        "url": "/als10001/",
+                        "id": 10001,
+                        "pinyin": "als10001",
+                        "display_type": "half_line",
+                        "checked": false
+                    },
+                    {
+                        "name": "租住保障",
+                        "url": "/als100001/",
+                        "id": 100001,
+                        "pinyin": "als100001",
+                        "display_type": "half_line",
+                        "checked": false
+                    }
+                ]
+            }
+        ],
+        "rco": {
+            "name": "综合排序",
+            "type": "radio",
+            "options": [
+                {
+                    "name": "综合排序",
+                    "pinyin": "rco0"
+                },
+                {
+                    "name": "最新发布",
+                    "pinyin": "rco11"
+                },
+                {
+                    "name": "价格(从低到高)",
+                    "pinyin": "rco21"
+                },
+                {
+                    "name": "价格(从高到低)",
+                    "pinyin": "rco22"
+                },
+                {
+                    "name": "面积(从小到大)",
+                    "pinyin": "rco31"
+                },
+                {
+                    "name": "面积(从大到小)",
+                    "pinyin": "rco32"
+                }
+            ]
+        },
+        "rules_more": [
+            {
+                "type": "rt200600000001",
+                "list": [
+                    {
+                        "key": "ra",
+                        "list": []
+                    },
+                    {
+                        "key": "tt",
+                        "list": [
+                            "base",
+                            "zhengzu"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "rt200600000002",
+                "list": [
+                    {
+                        "key": "tt",
+                        "list": [
+                            "base",
+                            "hezu"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "rt200600000001rt200600000002",
+                "list": [
+                    {
+                        "key": "tt",
+                        "list": [
+                            "base"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "default",
+                "list": [
+                    {
+                        "key": "tt",
+                        "list": [
+                            "base"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "sign": "40fd36cde65891d766fc0f46edfc7714"
+    }
+}
