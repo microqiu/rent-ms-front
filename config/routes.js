@@ -25,10 +25,22 @@ export default [
     component: './Welcome',
   },
   {
-    path: '/House/index',
-    name: '房源管理',
+    path: '/house',
+    name: 'house',
     icon: 'home',
-    component: './House/index'
+    routes: [
+      {
+        name: 'list',
+        path: '/house/list',
+        component: './House/index',
+      },
+      {
+        path: '/house/edit',
+        name: 'edit',
+        hideInMenu: true,
+        component: './House/Edit',
+      },
+    ],
   },
   {
     path: '/admin',
