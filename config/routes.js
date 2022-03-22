@@ -38,7 +38,7 @@ export default [
         path: '/house/edit',
         name: 'edit',
         hideInMenu: true,
-        component: './House/Edit',
+        component: './House/edit',
       },
     ],
   },
